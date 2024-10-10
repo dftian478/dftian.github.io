@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://dftian.github.io/"
+baseurl = "https://dftian478.github.io/dftian.github.io/"
 languageCode = "en-us"
 title = "Hugo Theme Stack Starter"
 
